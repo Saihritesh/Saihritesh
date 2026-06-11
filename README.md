@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saihritesh
-- 👀 I’m interested in Python , Transformers , Tensorflow , Git , LLM's , UI/UX , WebDev
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Python , Transformers , Tensorflow , Git , LLM's , UI/UX , Data Analysis , Data Science
+- 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on any open repositories 
 - 📫 You can reach me on GitHub 
 - 😄 Pronouns: Man/Bat
